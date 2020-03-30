@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
 Line1
+=======
+<<<<<<< HEAD
+Line2
+=======
+Line1
+>>>>>>> 433a88d38cd64392f3cc1219176d78089719464f
+>>>>>>> Stashed changes
